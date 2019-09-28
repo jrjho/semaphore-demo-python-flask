@@ -22,7 +22,7 @@ blocks:
       # https://docs.semaphoreci.com/article/66-environment-variables-and-secrets
       env_vars:
         - name: HEROKU_APP
-          value: YOUR_APP_NAME
+          value: flaskjrjho
       jobs:
         - name: Deploy
           commands:
